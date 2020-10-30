@@ -25,7 +25,7 @@ export const Wrapper: SFC<Props> = ({ config }) => {
         <Fragment>
           Learn how to{' '}
           <Link
-            href="https://github.com/pocka/storybook-addon-designs#usage"
+            href="https://github.com/Parli/storybook-addon-designs#usage"
             target="_blank"
             rel="noopener"
             withArrow
@@ -83,7 +83,7 @@ export const Wrapper: SFC<Props> = ({ config }) => {
             <Fragment>
               Config type you set is not supported. Please choose one from{' '}
               <Link
-                href="https://github.com/pocka/storybook-addon-designs#available-types"
+                href="https://github.com/Parli/storybook-addon-designs#available-types"
                 target="_blank"
                 rel="noopener"
                 withArrow

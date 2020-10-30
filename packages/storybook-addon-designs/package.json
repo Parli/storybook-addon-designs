@@ -5,8 +5,8 @@
   "main": "cjs/index.js",
   "module": "esm/index.js",
   "types": "esm/index.d.ts",
-  "repository": "git@github.com:pocka/storybook-addon-designs.git",
-  "homepage": "https://github.com/pocka/storybook-addon-designs",
+  "repository": "git@github.com:Parli/storybook-addon-designs.git",
+  "homepage": "https://github.com/Parli/storybook-addon-designs",
   "author": "pocka <pockawoooh@gmail.com>",
   "license": "MIT",
   "files": [

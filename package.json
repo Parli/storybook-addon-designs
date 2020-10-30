@@ -1,6 +1,4 @@
 {
-  "name": "root",
-  "repository": "git@github.com:pocka/storybook-addon-designs.git",
   "private": true,
   "workspaces": [
     "packages/*"
