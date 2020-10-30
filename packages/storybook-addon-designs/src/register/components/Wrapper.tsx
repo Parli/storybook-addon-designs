@@ -10,7 +10,6 @@ import { Figma } from './Figma'
 import { IFrame } from './IFrame'
 import { ImagePreview } from './Image'
 import { LinkPanel } from './LinkPanel'
-import { Pdf } from './Pdf'
 import { Tab, Tabs } from './Tabs'
 
 interface Props {
@@ -57,11 +56,6 @@ export const Wrapper: SFC<Props> = ({ config }) => {
             ...meta,
             content: <Figma config={cfg} />,
             offscreen: false
-          }
-        case 'pdf':
-          return {
-            ...meta,
-            content: <Pdf config={cfg} />
           }
         case 'image':
           return {
